@@ -1,0 +1,21 @@
+{
+    "name": "robodark",
+    "displayName": "RoboDark",
+    "description": "A dark theme with enhanced syntax highlighting for JavaScript. Scope highlighting along with bold and italic fonts make it easy to identify your code and visualize its structure. It supports other languages as well. Its clean and stylish design is easy on the eyes. Inspired by Umut Topuzoğlu's Bluloco Dark Theme, RoboDark builds upon the great Bluloco color palette to create a better user experience",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.47.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "RoboDark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/RoboDark-color-theme.json"
+            }
+        ]
+    }
+}
