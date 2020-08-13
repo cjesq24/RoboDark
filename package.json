@@ -1,14 +1,30 @@
 {
     "name": "robodark",
     "displayName": "RoboDark",
-    "description": "A dark theme with enhanced syntax highlighting for JavaScript. Scope highlighting along with bold and italic fonts make it easy to identify your code and visualize its structure. It supports other languages as well. Its clean and stylish design is easy on the eyes. Inspired by Umut Topuzoğlu's Bluloco Dark Theme, RoboDark builds upon the great Bluloco color palette to create a better user experience",
+    "description": "A dark theme with enhanced syntax highlighting for JavaScript. Scope highlighting, along with bold and italic fonts make it easy to identify your code and visualize its structure. It supports other languages as well. Its clean and stylish design is easy on the eyes. Inspired by Umut Topuzoğlu's Bluloco Dark Theme, RoboDark builds upon the great Bluloco color palette to create a better user experience.",
+    "author": {
+        "name": "Chad LaVeglia"
+    },
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.47.0"
     },
-    "categories": [
-        "Themes"
-    ],
+    "publisher": "Chad LaVeglia",
+    "categories": ["Themes"],
+    "icon": "icon.jpg",
+    "galleryBanner": {
+        "color": "#181436",
+        "theme": "dark"
+    },
+    "license": "SEE LICENSE IN LICENSE.TXT",
+    "bugs": {
+        "url": "https://github.com/cjesq24/RoboDark/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/cjesq24/RoboDark.git"
+    },
+    
     "contributes": {
         "themes": [
             {
@@ -17,5 +33,6 @@
                 "path": "./themes/RoboDark-color-theme.json"
             }
         ]
-    }
+    },
+    "keywords": ["theme", "dark", "bold", "aswesome", "elegant"]
 }
