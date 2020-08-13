@@ -33,6 +33,6 @@
                 "path": "./themes/RoboDark-color-theme.json"
             }
         ]
-    }
-
+    },
+    "keywords": ["theme", "dark", "bold", "aswesome", "elegant"]
 }
