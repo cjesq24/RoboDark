@@ -11,14 +11,14 @@
     },
     "publisher": "Chad LaVeglia",
     "categories": ["Themes"],
-    "icon": "https://github.com/cjesq24/RoboDark/commit/859d7eca286bd1e693ce3290bee8bec86c920f85",
+    "icon": "icon.jpg",
     "galleryBanner": {
         "color": "#181436",
         "theme": "dark"
     },
     "license": "SEE LICENSE IN LICENSE.TXT",
     "bugs": {
-        "url": "https://github.com/cjesq24/RoboDark.git"
+        "url": "https://github.com/cjesq24/RoboDark/issues"
     },
     "repository": {
         "type": "git",
