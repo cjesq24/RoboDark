@@ -5,12 +5,14 @@
     "author": {
         "name": "Chad LaVeglia"
     },
-    "version": "0.0.1",
+    "version": "0.1.0",
     "engines": {
         "vscode": "^1.47.0"
     },
     "publisher": "LaVeglia00148",
-    "categories": ["Themes"],
+    "categories": [
+        "Themes"
+    ],
     "icon": "icon.png",
     "galleryBanner": {
         "color": "#181436",
@@ -24,7 +26,6 @@
         "type": "git",
         "url": "https://github.com/cjesq24/RoboDark.git"
     },
-    
     "contributes": {
         "themes": [
             {
@@ -34,6 +35,11 @@
             }
         ]
     },
-    "keywords": ["theme", "dark", "bold", "aswesome", "elegant"]
+    "keywords": [
+        "theme",
+        "dark",
+        "bold",
+        "aswesome",
+        "elegant"
+    ]
 }
-    
