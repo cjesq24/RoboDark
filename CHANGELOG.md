@@ -5,6 +5,7 @@ All notable changes to the "robodark" extension will be documented in this file.
 ## [Released]
 
 ** 8/13/20
+
 - Initial release
 - Changed Icon
 
