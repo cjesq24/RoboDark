@@ -12,3 +12,5 @@ All notable changes to the "robodark" extension will be documented in this file.
 ***8/14/20
 
 - added screenshots to Readme
+
+- moved theme json to themes folder to fix install issues.
