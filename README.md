@@ -10,3 +10,5 @@ A dark theme with enhanced syntax highlighting for JavaScript. Scope highlightin
 ![JavaScript Screenshot](https://raw.githubusercontent.com/LaVeglia00148/RoboDark/master/Screenshots/js2.ScreenShot.png)
 
 ![JavaScript Screenshot](https://raw.githubusercontent.com/LaVeglia00148/RoboDark/master/Screenshots/js_ScreenShot.png)
+
+![xw](https://github.com/cjesq24/RoboDark/raw/master/Screenshots/js2.ScreenShot.png)
