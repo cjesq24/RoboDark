@@ -243,7 +243,7 @@
         "meta.other.type.phpdoc support class"
       ],
       "settings": {
-        "foreground": "#58ce62",
+        "foreground": "#ce5858",
       
       }
     },
@@ -297,7 +297,7 @@
         "punctuation.colon.graphql"
       ],
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#27ae60"
       }
     },
     {
@@ -340,10 +340,23 @@
         "variable",
         "source.elixir.embedded.source",
         "string source.groovy",
-        "string meta.embedded.line.ruby"
+        "string meta.embedded.line.ruby",
+        "storage.type.js",
+        "source.js"
       ],
       "settings": {
-        "foreground": "#5b92f8"
+        "foreground": "#4482f5"
+      }
+    },
+    {
+      "name": "Member", 
+      "scope": [
+      "entity.name.function.js",
+      "meta.method-call.with-arguments.js",
+      "source.js"
+      ],
+      "settings": {
+        "foreground": "#4456f5"
       }
     },
     {
@@ -362,7 +375,7 @@
       ],
       "settings": {
         "foreground": "#3fc56b",
-        "fontStyle":"bold"
+        "fontStyle": "underline",
         
       }
     },
@@ -376,6 +389,7 @@
         "meta.class.inheritance",
         "entity.other.inherited-class",
         "entity.name.type",
+        "entity.name.prototype",
         "variable.other.constant.elixir",
         "storage.type.haskell",
         "support.type.graphql",
@@ -407,7 +421,7 @@
       }
     },
     {
-      "name": "Strings, Inherited Class",
+      "name": "Inherited Class",
       "scope": [
         "string",
         "punctuation.definition.string",
@@ -417,7 +431,7 @@
         "storage.type.string"
       ],
       "settings": {
-        "foreground": "#10cdea"
+        "foreground": "#5f90c4"
       }
     },
     {
@@ -536,8 +550,6 @@
         "markup.deleted",
         "markup.changed",
         "storage",
-        "constant.language",
-        "entity.name.class",
         "entity.other.attribute-name"
       ],
       "settings": {
@@ -551,7 +563,8 @@
         "keyword.other.unit",
         "support.type.property-name",
         "keyword.other.special-method",
-        "entity.name.tag"
+        "entity.name.tag",
+        "function"
       ],
       "settings": {
         "fontStyle": ""
@@ -638,7 +651,7 @@
         "source.js"
       ],
       "settings": {
-        "foreground": "#bf82de",
+        "foreground": "#cf97eb",
      
       }
     },
@@ -660,7 +673,7 @@
       "name": "Illegal",
       "scope": "invalid",
       "settings": {
-        "foreground": "#fc2f52"
+        "foreground": "#f97d6a"
       }
     },
     {
@@ -674,20 +687,33 @@
       "name": "Css ID",
       "scope": "entity.other.attribute-name.id",
       "settings": {
-        "foreground": "#ff6480"
+        "foreground": "#87ff0f"
       }
     },
     {
-      "name": "Function Parameters",
+      "name": "Parameters",
       "scope": [
       	"meta.function-call.arguments",
-      	"string.quoted.double.js",
+        "variable.other.readwrite.js",
 		    "meta.method-call.with-arguments.js",
 		    "source.js",
 		],
       "settings": {
-        "foreground": "#e621c8"
+        "foreground": "#e621c8",
+        
       }
+    },
+    {
+      "name": "Conditionals",
+      "scope": [
+        "keyword.control.conditional.js",
+        "source.js"
+		],
+      "settings": {
+        "foreground": "#e8e58b",
+        
+      }
+      
     },
     {
       "name": "Object Properties",
@@ -708,7 +734,7 @@
         "variable.graphql"
       ],
       "settings": {
-        "foreground": "#169af1",
+        "foreground": "#a788f0",
         "fontStyle": "italic"
       }
     },
@@ -733,17 +759,38 @@
     {
       "name": "Variable Parameter",
       "scope": [
-        "variable.parameter",
-        "variable.function.javascript",
-        "parameter.variable.function.elixir",
-        "variable.other.block.ruby",
-        "string.quoted.double.js",
-        "string.quoted.single.js",
-		    "meta.method-call.with-arguments.js",
-		    "source.js",
+        "variable.parameter", "variable.function.javascript", "parameter.variable.function.elixir", 
+        "variable.other.block.ruby", 
+        "meta.method-call.with-arguments.js", 
+        "source.js"
+      ],
+       "settings": {
+        "foreground": "#e621c8"
+    },
+    },
+    {
+      "name": "Strings",
+      "scope": [
+       "string.quoted.double.js", 
+       "string.quoted.single.js",
+       "source.js"
       ],
       "settings": {
-        "foreground": "#ff936a"
+        "foreground": "#e67621"
+      }
+    },
+    {
+      "name": "This",
+      "scope": [
+        "variable.language.this.js",
+        "meta.function-call.with-arguments.js",
+        "meta.function.js",
+        "meta.method-call.with-arguments.js", 
+       "string.quoted.single.js",
+       "source.js"
+      ],
+      "settings": {
+        "foreground": "#219ae6"
       }
     },
     {
@@ -760,7 +807,7 @@
         "source.js"
       ],
       "settings": {
-        "foreground": "#09d282",
+        "foreground": "#09d282b8",
         "fontStyle": "bold"
       }
     },
@@ -773,7 +820,6 @@
       ],
       "settings": {
         "foreground": "#e6f334",
-        "fontStyle": "bold"
       }
     },
     {
