@@ -515,7 +515,7 @@
       "name": "Units",
       "scope": "keyword.other.unit",
       "settings": {
-        "foreground": "#f9c859"
+        "foreground": "#eac97d"
       }
     },
     {
@@ -574,7 +574,7 @@
       "name": "Code",
       "scope": "markup.raw.inline",
       "settings": {
-        "foreground": "#f9c859"
+        "foreground": "#a0614f"
       }
     },
     {
@@ -656,6 +656,20 @@
       }
     },
     {
+      "name": "Other",
+      "scope": [
+       "entity.name.function.js",
+        "meta.method-call.with-arguments.js",
+        "meta.function.js",
+        "meta.method-call.with-arguments.js",
+        "source.js"
+      ],
+      "settings": {
+        "foreground": "#d0d071",
+     
+      }
+    },
+    {
       "name": "Escape Characters",
       "scope": ["constant.character.escape", "constant.other.character-class"],
       "settings": {
@@ -711,7 +725,19 @@
 		],
       "settings": {
         "foreground": "#e8e58b",
-        
+      }
+      
+    },
+    {
+      "name": "Other terminator",
+      "scope": [
+            "punctuation.terminator.statement.js",
+            "meta.function.js",
+            "meta.method-call.with-arguments.js",
+            "source.jsOther",
+            ],
+      "settings": {
+        "foreground": "#f53cff",
       }
       
     },
@@ -734,7 +760,7 @@
         "variable.graphql"
       ],
       "settings": {
-        "foreground": "#a788f0",
+        "foreground": "#8a5ef0",
         "fontStyle": "italic"
       }
     },
@@ -776,7 +802,7 @@
        "source.js"
       ],
       "settings": {
-        "foreground": "#e67621"
+        "foreground": "#f59a54f3"
       }
     },
     {
