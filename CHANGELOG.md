@@ -17,4 +17,5 @@ All notable changes to the "robodark" extension will be documented in this file.
 
 ****8/22/20
 
-- modified colors in theme and added broader spectrum. Plus more javascript soecific.
+- modified colors in theme and added broader spectrum. Plus more javascript specific.
+- Removed underlines. Had to push update again.
