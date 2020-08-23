@@ -297,7 +297,7 @@
         "punctuation.colon.graphql"
       ],
       "settings": {
-        "foreground": "#27ae60"
+        "foreground": "#e9efeb"
       }
     },
     {
@@ -375,7 +375,7 @@
       ],
       "settings": {
         "foreground": "#3fc56b",
-        "fontStyle": "underline",
+        
         
       }
     },
