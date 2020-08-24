@@ -6,8 +6,12 @@ A dark theme with enhanced syntax highlighting for JavaScript. Scope highlightin
 
 ### Here are several screenshots
 
-![html](https://github.com/cjesq24/RoboDark/raw/master/Screenshots/html.screenshot.png)
+1. HTML + CSS
 
-![JavaScript](https://github.com/cjesq24/RoboDark/raw/master/Screenshots/js2.ScreenShot.png)
+![html & CSS](https://github.com/cjesq24/RoboDark/raw/master/Screenshots/Robo-html.png)
 
-![JavaScript 2](https://github.com/cjesq24/RoboDark/raw/master/Screenshots/js_ScreenShot.png)
+2. HTML
+![Html2](https://github.com/cjesq24/RoboDark/raw/master/Screenshots/Robo-html2.png)
+
+3. JavaScript
+![JavaScript ](https://github.com/cjesq24/RoboDark/raw/master/Screenshots/js-RoboDark.png)
