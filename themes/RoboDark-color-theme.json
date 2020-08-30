@@ -940,7 +940,7 @@
       }
     },
     {
-      "name": "html punc tag2",
+      "name": "Tag End",
       "scope": [
        "punctuation.definition.tag.end.html",
         "meta.tag.metadata.meta.void.html",
