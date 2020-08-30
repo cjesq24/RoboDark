@@ -701,7 +701,7 @@
         "text.html.derivative"
       ],
       "settings": {
-        "foreground": "#7e148a",
+        "foreground": "#f46781",
      
       }
     },
@@ -927,6 +927,42 @@
       }
     },
     {
+      "name": "meta tags",
+      "scope": [
+        "string.quoted.double.html",
+        "meta.attribute.src.html",
+        "meta.tag.metadata.script.start.html",
+        "meta.embedded.block.html",
+        "text.html.derivative",
+      ],
+      "settings": {
+        "foreground": "#01ddff",
+      }
+    },
+    {
+      "name": "html punc tag2",
+      "scope": [
+       "punctuation.definition.tag.end.html",
+        "meta.tag.metadata.meta.void.html",
+        "text.html.derivative"
+      ],
+      "settings": {
+        "foreground": "#ff6480",
+      }
+    },
+    {
+      "name": "href tags",
+      "scope": [
+        "string.quoted.double.html",
+         "meta.attribute.href.html",
+        "meta.tag.inline.a.start.html",
+        "text.html.derivative",
+      ],
+      "settings": {
+        "foreground": "#87c6ec",
+      }
+    },
+    {
       "name": "BASH: Command Substitution",
       "scope": "string.interpolated.dollar.shell",
       "settings": {
@@ -981,21 +1017,14 @@
     }
   ]
 }
-/*
-language	html
-standard token type	Other
-foreground	#7E148A
-background	#010102
-contrast ratio	2.34
-textmate scopes	punctuation.definition.tag.end.html
-meta.tag.metadata.meta.void.html
-text.html.derivative */
+/*meta ref
+ */
 
 /* 
 html
-string.quoted.double.html
-meta.attribute.content.html
-meta.tag.metadata.meta.void.html
-text.html.derivative
 
+string.quoted.double.html
+meta.attribute.href.html
+meta.tag.inline.a.start.html
+text.html.derivative
 */
