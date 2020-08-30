@@ -228,7 +228,7 @@
         "comment.block"
       ],
       "settings": {
-        "foreground": "#51893c"
+        "foreground": "#fbc531"
       }
     },
     {
@@ -842,7 +842,7 @@
         "text.html.derivative", 
       ],
       "settings": {
-        "foreground": "#7e148a"
+        "foreground": "#ff6480"
       }
     },
     {
@@ -897,7 +897,7 @@
         "text.html.derivative",
       ],
       "settings": {
-        "foreground": "#368cf4"
+        "foreground": "#0984e3"
       }
     },
     {
@@ -1012,7 +1012,7 @@
       "name": "CSV Rainbow 10",
       "scope": "invalid.rainbow10",
       "settings": {
-        "foreground": "#ff936a"
+        "foreground":"#ff936a"
       }
     }
   ]
