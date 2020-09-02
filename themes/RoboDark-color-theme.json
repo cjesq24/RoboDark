@@ -228,7 +228,7 @@
         "comment.block"
       ],
       "settings": {
-        "foreground": "#c9a6b1e9"
+        "foreground": "#00b894"
       }
     },
     {
@@ -429,7 +429,7 @@
       }
     },
     {
-      "name": "String Punctuation",
+      "name": "String Punctuation Begin",
       "scope": [
         "punctuation.definition.string.begin.html",
         "string.quoted.double.html",
@@ -438,7 +438,7 @@
         "text.html.derivative"
       ],
       "settings": {
-        "foreground": "#def03d"
+        "foreground": "#e84393"
       }
     },
     {
@@ -451,7 +451,7 @@
         "text.html.derivative"
       ],
       "settings": {
-        "foreground": "#def03d"
+        "foreground": "#e84393"
       }
     },
     {
@@ -692,7 +692,7 @@
         "text.html.derivative"
       ],
       "settings": {
-        "foreground": "#f46781"
+        "foreground": "#fee440"
       }
     },
     {
@@ -824,7 +824,7 @@
         "text.html.derivative"
       ],
       "settings": {
-        "foreground": "#ff6480"
+        "foreground": "#fee440"
       }
     },
     {
@@ -851,7 +851,7 @@
       "name": "Strings",
       "scope": ["string.quoted.double.js", "string.quoted.single.js"],
       "settings": {
-        "foreground": "#f59a54f3"
+        "foreground": "#f0932b"
       }
     },
     {
@@ -876,7 +876,7 @@
         "text.html.derivative"
       ],
       "settings": {
-        "foreground": "#4eaaf0"
+        "foreground": "#8338ec"
       }
     },
     {
@@ -913,7 +913,7 @@
         "text.html.derivative"
       ],
       "settings": {
-        "foreground": "#4eaaf0"
+        "foreground": "#f0932b"
       }
     },
     {
@@ -924,7 +924,7 @@
         "text.html.derivative"
       ],
       "settings": {
-        "foreground": "#ff6480"
+        "foreground": "#fee440"
       }
     },
     {
@@ -936,7 +936,7 @@
         "text.html.derivative"
       ],
       "settings": {
-        "foreground": "#87c6ec"
+        "foreground": "#0984e3"
       }
     },
     {
