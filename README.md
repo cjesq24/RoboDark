@@ -36,3 +36,6 @@ A dark theme with enhanced syntax highlighting for JavaScript. Scope highlightin
 
 9. Vue
 ![Vue](https://github.com/cjesq24/RoboDark/raw/master/Screenshots/vue.png)
+
+10. Scsss
+![Html2](https://github.com/cjesq24/RoboDark/raw/master/Screenshots/scsspic.png)
