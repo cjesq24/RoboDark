@@ -9,9 +9,16 @@ A dark theme with enhanced syntax highlighting for JavaScript. Scope highlightin
 1. HTML + CSS
 ![html & CSS](https://github.com/cjesq24/RoboDark/raw/master/Screenshots/Robo-html.png)
 
+<<<<<<< HEAD
 2. Old HTML  
 ![Html2](https://github.com/cjesq24/RoboDark/raw/master/Screenshots/Robo-html2.png)
 
+=======
+2. Old HTML
+![Html2](https://github.com/cjesq24/RoboDark/raw/master/Screenshots/Robo-html2.png)
+
+
+>>>>>>> 52b516f81a7debc70a8d37d8f503f5f6fa4d72d9
 3. New HTML Theme
 ![Html2](https://github.com/cjesq24/RoboDark/raw/master/Screenshots/htmlNew.png)
 
@@ -31,3 +38,12 @@ A dark theme with enhanced syntax highlighting for JavaScript. Scope highlightin
 
 8. Markdown
 ![Markdown](https://github.com/cjesq24/RoboDark/raw/master/Screenshots/markdown.png)
+<<<<<<< HEAD
+=======
+
+9. Vue
+![Vue](https://github.com/cjesq24/RoboDark/raw/master/Screenshots/vue.png)
+
+10. Scsss
+![Html2](https://github.com/cjesq24/RoboDark/raw/master/Screenshots/scsspic.png)
+>>>>>>> 52b516f81a7debc70a8d37d8f503f5f6fa4d72d9
