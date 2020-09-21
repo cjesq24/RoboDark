@@ -24,7 +24,11 @@ All notable changes to the "robodark" extension will be documented in this file.
 - Major update to themes. Especially for html and js. Colors and scopes refactored for better readability and to easily identify pieces of code and the scope(s) they are in. 
 
 9/20/20
-HTML
-Added lighter brackets and adjusted other colors to improve flow and identification of tags, elements, attributes and even closing tags.
+
+html
+
+- Added lighter brackets and adjusted other colors to improve flow and identification of tags, elements, attributes and even closing tags.
+
 JS
-Some minor changes in colors for better scope identification, and addition of jsx.
+
+- Some minor changes in colors for better scope identification, and addition of jsx.
