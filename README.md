@@ -10,8 +10,29 @@ A dark theme with enhanced syntax highlighting for JavaScript. Scope highlightin
 
 ![html & CSS](https://github.com/cjesq24/RoboDark/raw/master/Screenshots/Robo-html.png)
 
-2. HTML
+2. Old HTML
 ![Html2](https://github.com/cjesq24/RoboDark/raw/master/Screenshots/Robo-html2.png)
 
-3. JavaScript
+
+3. New HTML Theme
+![Html2](https://github.com/cjesq24/RoboDark/raw/master/Screenshots/htmlNew.png)
+
+4. React
+![Jsx](https://github.com/cjesq24/RoboDark/raw/master/Screenshots/jsxReact1.png)
+![Jsx](https://github.com/cjesq24/RoboDark/raw/master/Screenshots/jsxReact2.png)
+
+5. JavaScript
 ![JavaScript ](https://github.com/cjesq24/RoboDark/raw/master/Screenshots/js-RoboDark.png)
+![JavaScript ](https://github.com/cjesq24/RoboDark/raw/master/Screenshots/jsSS.png)
+
+6. Python
+![Python ](https://github.com/cjesq24/RoboDark/raw/master/Screenshots/python.png)
+
+7. Red and Green Borders
+![Html2](https://github.com/cjesq24/RoboDark/raw/master/Screenshots/border.png)
+
+8. Markdown
+![Markdown](https://github.com/cjesq24/RoboDark/raw/master/Screenshots/markdown.png)
+
+9. Vue
+![Vue](https://github.com/cjesq24/RoboDark/raw/master/Screenshots/vue.png)
