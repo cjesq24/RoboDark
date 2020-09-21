@@ -31,4 +31,4 @@ html
 
 JS
 
-- Some minor changes in colors for better scope identification, and addition of jsx.
+- Some minor changes in colors for better scope identification, and addition of jsx, Vue and Markdown.
