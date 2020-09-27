@@ -904,6 +904,13 @@
       }
     },
     {
+      "name": "xml Text",
+      "scope": ["text.xml"],
+      "settings": {
+        "foreground": "#ffffff"
+      }
+    },
+    {
       "name": "meta tags",
       "scope": [
         "string.quoted.double.html",
