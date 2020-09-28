@@ -715,6 +715,14 @@
       }
     },
     {
+      "name": "Pug Escape Brackets",
+      "scope": ["string.interpolated", "pugtext.pug"],
+      "settings": {
+        "foreground": "#3FC56B",
+      }
+
+    },
+    {
       "name": "Embedded",
       "scope": "variable.interpolation",
       "settings": {
@@ -864,9 +872,25 @@
         "string.quoted.single.js"
       ],
       "settings": {
-        "foreground": "#0a79ff"
+        "foreground": "#0a43ff"
       }
     },
+    {
+      "name": "JS Single Quotes",
+      "scope": [
+        "string.quoted.single.js",
+        "meta.method-call.with-arguments.js",
+        "meta.function.js",
+        "meta.method-call.with-arguments.js",
+        "meta.function.js",
+        "source.js"
+      ],
+      "settings": {
+        "foreground": "#F0932b",
+      }
+
+    },
+
     {
       "name": "Html inline meta tag",
       "scope": [
