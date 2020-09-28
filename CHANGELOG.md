@@ -32,3 +32,8 @@ html
 JS
 
 - Some minor changes in colors for better scope identification, and addition of jsx, Vue and Markdown.
+
+9/28/20
+
+- added support for pug
+- issue with js single and double quotes strings different colors. Changed to match
