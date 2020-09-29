@@ -1,6 +1,26 @@
 # README
 
-A dark theme with enhanced syntax highlighting for JavaScript. Scope highlighting along with bold and italic fonts make it easy to identify your code and visualize its structure. It supports other languages as well. Its clean and stylish design is easy on the eyes. Inspired by Umut Topuzoğlu's Bluloco Dark Theme, RoboDark builds upon the great Bluloco color palette to create a better user experience.
+A dark theme with enhanced syntax highlighting for JavaScript. Scope highlighting along with bold and italic fonts make it easy to identify your code and visualize its structure. It supports:
+
+                            $ JavaScript
+                            
+                            $ HTML
+                            
+                            $ CSS
+                            
+                            $ SCSS
+                            
+                            $ Python
+                            
+                            $ Markdown
+                            
+                            $ Vue
+                            
+                            $ REACT
+                            
+ Where it stands out though? JavaSscript. It is built to display your code structure in an easily vusable style. Feel free to fork and add to it.
+                            
+Its clean and stylish design is easy on the eyes. Inspired by Umut Topuzoğlu's Bluloco Dark Theme, RoboDark builds upon the great Bluloco color palette to create a better user experience.
 
 ## Screenshots
 
