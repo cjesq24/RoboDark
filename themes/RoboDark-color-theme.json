@@ -228,7 +228,8 @@
         "comment.block"
       ],
       "settings": {
-        "foreground": "#00b894"
+        "foreground": "#ecffc2cf",
+        "fontStyle": "italic"
       }
     },
     {
@@ -296,7 +297,7 @@
         "punctuation.colon.graphql"
       ],
       "settings": {
-        "foreground": "#e9efeb"
+        "foreground": "#3FC56B"
       }
     },
     {
