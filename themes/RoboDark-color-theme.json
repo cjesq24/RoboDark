@@ -228,7 +228,8 @@
         "comment.block"
       ],
       "settings": {
-        "foreground": "#00b894"
+        "foreground": "#ecffc2cf",
+        "fontStyle": "italic"
       }
     },
     {
@@ -296,7 +297,7 @@
         "punctuation.colon.graphql"
       ],
       "settings": {
-        "foreground": "#e9efeb"
+        "foreground": "#3FC56B"
       }
     },
     {
@@ -715,6 +716,14 @@
       }
     },
     {
+      "name": "Pug Escape Brackets",
+      "scope": ["string.interpolated", "pugtext.pug"],
+      "settings": {
+        "foreground": "#3FC56B",
+      }
+
+    },
+    {
       "name": "Embedded",
       "scope": "variable.interpolation",
       "settings": {
@@ -864,9 +873,25 @@
         "string.quoted.single.js"
       ],
       "settings": {
-        "foreground": "#0a79ff"
+        "foreground": "#0a43ff"
       }
     },
+    {
+      "name": "JS Single Quotes",
+      "scope": [
+        "string.quoted.single.js",
+        "meta.method-call.with-arguments.js",
+        "meta.function.js",
+        "meta.method-call.with-arguments.js",
+        "meta.function.js",
+        "source.js"
+      ],
+      "settings": {
+        "foreground": "#F0932b",
+      }
+
+    },
+
     {
       "name": "Html inline meta tag",
       "scope": [
@@ -904,6 +929,13 @@
       }
     },
     {
+      "name": "xml Text",
+      "scope": ["text.xml"],
+      "settings": {
+        "foreground": "#ffffff"
+      }
+    },
+    {
       "name": "meta tags",
       "scope": [
         "string.quoted.double.html",
@@ -913,7 +945,7 @@
         "text.html.derivative"
       ],
       "settings": {
-        "foreground": "#f0932b"
+        "foreground": "#2be6f0"
       }
     },
     {
@@ -967,7 +999,7 @@
       "name": "html text",
       "scope": "text.html.derivative",
       "settings": {
-        "foreground": "#f0eaea"
+        "foreground": "#ffffff"
       }
     },
     {
