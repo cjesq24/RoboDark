@@ -17,6 +17,8 @@ A dark theme with enhanced syntax highlighting for JavaScript. Scope highlightin
 - Vue
                             
 - REACT
+
+-Pug
                             
  Where it stands out though? JavaSscript. It is built to display your code structure in an easily vusable style. Feel free to fork and add to it.
                             
