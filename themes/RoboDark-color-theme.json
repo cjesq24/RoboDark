@@ -228,8 +228,8 @@
         "comment.block"
       ],
       "settings": {
-        "foreground": "#ecffc2cf",
-        "fontStyle": "italic"
+        "foreground": "#9ea0a1",
+        "fontStyle": "bold"
       }
     },
     {
@@ -719,9 +719,8 @@
       "name": "Pug Escape Brackets",
       "scope": ["string.interpolated", "pugtext.pug"],
       "settings": {
-        "foreground": "#3FC56B",
+        "foreground": "#3FC56B"
       }
-
     },
     {
       "name": "Embedded",
@@ -887,9 +886,8 @@
         "source.js"
       ],
       "settings": {
-        "foreground": "#F0932b",
+        "foreground": "#F0932b"
       }
-
     },
 
     {
@@ -1028,6 +1026,13 @@
       ],
       "settings": {
         "foreground": "#fefefe"
+      }
+    },
+    {
+      "name": "pug text",
+      "scope": "text.pug",
+      "settings": {
+        "foreground": "#8218d8"
       }
     },
     {
