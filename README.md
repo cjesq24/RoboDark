@@ -2,21 +2,21 @@
 
 A dark theme with enhanced syntax highlighting for JavaScript. Scope highlighting along with bold and italic fonts make it easy to identify your code and visualize its structure. It supports:
 
-                            $ JavaScript
+- JavaScript
                             
-                            $ HTML
+-  HTML
                             
-                            $ CSS
+- CSS
                             
-                            $ SCSS
+- SCSS/SASS
                             
-                            $ Python
+- Python
                             
-                            $ Markdown
+- Markdown
                             
-                            $ Vue
+- Vue
                             
-                            $ REACT
+- REACT
                             
  Where it stands out though? JavaSscript. It is built to display your code structure in an easily vusable style. Feel free to fork and add to it.
                             
