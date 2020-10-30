@@ -37,3 +37,9 @@ JS
 
 - added support for pug
 - issue with js single and double quotes strings different colors. Changed to match
+
+10/29/20
+
+PUG
+
+- Added Pug Support and Screenshot.
