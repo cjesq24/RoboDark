@@ -970,6 +970,37 @@
       }
     },
     {
+      "name": "handelbars tags",
+      "scope": [
+        "entity.name.tag.other.html",
+        "meta.tag.other.html",
+        "text.html.handlebars",
+        "foreground.entity.name.tag"
+        ],
+      "settings": {
+        "foreground": "#032e66"
+      }
+    },
+    {
+      "name": "handelbars punctuation",
+      "scope": [
+        "punctuation.definition.tag.html",
+        "meta.tag.other.html",
+        "text.html.handlebars",
+        "foreground.punctuation.definition.tag"
+        ],
+      "settings": {
+        "foreground": "#c92e12"
+      }
+    },
+    {
+      "name": "handlebars text",
+      "scope": ["text.html.handlebars"],
+      "settings": {
+        "foreground": "#ffffff",
+      }
+    },
+    {
       "name": "BASH: Command Substitution",
       "scope": "string.interpolated.dollar.shell",
       "settings": {
