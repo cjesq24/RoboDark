@@ -43,3 +43,7 @@ JS
 PUG
 
 - Added Pug Support and Screenshot.
+
+12/5/20
+
+- Trying out some italics for classes in html and some other places in html and js. 
