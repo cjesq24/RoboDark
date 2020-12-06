@@ -496,7 +496,8 @@
       "name": "Tags",
       "scope": ["entity.name.tag", "punctuation.definition.tag"],
       "settings": {
-        "foreground": "#0a79ff"
+        "foreground": "#0a79ff",
+        "fontStyle": "italic"
       }
     },
     {
