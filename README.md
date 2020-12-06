@@ -18,7 +18,7 @@ A dark theme with enhanced syntax highlighting for JavaScript. Scope highlightin
 
 - Pug
 
- Where it stands out though? JavaSscript. It is built to display your code structure in an easily vusable style. Feel free to fork and add to it.
+ Where it stands out though? JavaSscript. It is built to display the code's structure so it is easy to see the bigger picture and the details. Feel free to fork and add to it.
 
 Its clean and stylish design is easy on the eyes. Inspired by Umut Topuzoğlu's Bluloco Dark Theme, RoboDark builds upon the great Bluloco color palette to create a better user experience.
 
