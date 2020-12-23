@@ -50,4 +50,4 @@ PUG
 
 12/23/20
 
-- Changed color of curly braces in js template literals to stand out from other punctuation.
+- Changed color for string template literals and punctuation to stand out so it is easier to differentiate.
