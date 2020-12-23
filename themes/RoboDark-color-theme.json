@@ -518,6 +518,19 @@
       }
     },
     {
+      "name": "String Quoted Template",
+      "scope": [
+        "string.quoted.template.js",
+        "string.quasi.js",
+        "meta.function.js",
+        "meta.method-call.with-arguments.js",
+        "source.js"
+      ],
+      "settings": {
+        "foreground": "#008011",
+      }
+    },
+    {
       "name": "Integers",
       "scope": ["constant.numeric", "variable.other.anonymous.elixir"],
       "settings": {
