@@ -47,3 +47,7 @@ PUG
 12/5/20
 
 - Trying out some italics for classes in html and some other places in html and js. 
+
+12/23/20
+
+- Changed color of curly braces in js template literals to stand out from other punctuation.
