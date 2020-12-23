@@ -1,6 +1,6 @@
 # README
 
-A dark theme with enhanced syntax highlighting for JavaScript. Scope highlighting along with bold and italic fonts make it easy to identify your code and visualize its structure. It supports:
+A dark theme with enhanced syntax highlighting for JavaScript, HTML, and CSS. It's not just visually appealing but practical as well. The scoped syntax along with bold and italic fonts make it easy to identify your code and visualize its structure. RoboDark offers a broad spectrum of magic colors beautifully contrasted with the dark theme behind it. It supports:
 
 - JavaScript
 
@@ -18,7 +18,7 @@ A dark theme with enhanced syntax highlighting for JavaScript. Scope highlightin
 
 - Pug
 
- Where it stands out though? JavaSscript. It is built to display the code's structure so it stands out. It even provides different colors based on the scope; so it is helpful to identify the porogression of your code. Feel free to fork and add to it.
+ Where it stands out though? JavaScript. For instance, a callback function is colored differently than a regular function. The colors are nice, but its scoped application is even nicer! Feel free to fork.
 
 Its clean and stylish design is easy on the eyes. Inspired by Umut Topuzoğlu's Bluloco Dark Theme, RoboDark builds upon the great Bluloco color palette to create a better user experience.
 
