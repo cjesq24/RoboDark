@@ -490,6 +490,34 @@
       }
     },
     {
+      "name": "Quasi Template Literal Punctuation Begin",
+      "scope": [
+        "punctuation.definition.quasi.begin.js",
+        "string.quoted.template.js",
+        "string.quasi.js",
+        "meta.function.js",
+        "meta.method-call.with-arguments.js",
+        "source.js",
+      ],
+      "settings": {
+        "foreground": "#47f0e5",
+      }
+    },
+    {
+      "name": "Quasi Template Literal Punctuation End",
+      "scope": [
+        "punctuation.definition.quasi.end.js",
+        "string.quoted.template.js",
+        "string.quasi.js",
+        "meta.function.js",
+        "meta.method-call.with-arguments.js",
+        "source.js",
+      ],
+      "settings": {
+        "foreground": "#47f0e5",
+      }
+    },
+    {
       "name": "Integers",
       "scope": ["constant.numeric", "variable.other.anonymous.elixir"],
       "settings": {
