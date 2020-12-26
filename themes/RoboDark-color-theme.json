@@ -490,6 +490,17 @@
       }
     },
     {
+      "name": "JS Meta Brace Round",
+      "scope": [
+        "meta.brace.round.js",
+        "meta.method-call.with-arguments.js",
+        "source.js"
+      ],
+      "settings": {
+        "foreground": "#de5858",
+      }
+    },
+    {
       "name": "Quasi Template Literal Punctuation Begin",
       "scope": [
         "punctuation.definition.quasi.begin.js",
