@@ -370,10 +370,22 @@
         "variable.function",
         "storage.type.function.js",
         "meta.function.js",
-        "meta.method-call.with-arguments.js"
+        "source.js"
       ],
       "settings": {
-        "foreground": "#3fc56b"
+        "foreground": "#39ff14"
+      }
+    },
+    {
+      "name": "Callback Function",
+      "scope":[
+        "storage.type.function.js",
+        "meta.function.js",
+        "meta.method-call.with-arguments.js",
+        "source.js "
+      ],
+      "settings": {
+        "foreground": "#3fc56b",
       }
     },
     {
@@ -662,7 +674,7 @@
         "entity.other.attribute-name"
       ],
       "settings": {
-        "fontStyle": ""
+        "fontStyle":"italic"
       }
     },
     {
@@ -1008,10 +1020,11 @@
       }
     },
     {
-      "name": "DOM function",
+      "name": "DOM Method",
       "scope": [
         "entity.name.function.js",
-        "meta.method-call.with-arguments.js"
+        "meta.method-call.with-arguments.js",
+        "source.js"
       ],
       "settings": {
         "foreground": "#01ddff"

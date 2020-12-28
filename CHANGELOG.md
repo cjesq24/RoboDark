@@ -21,7 +21,8 @@ All notable changes to the "robodark" extension will be documented in this file.
 - Removed underlines. Had to push update again.
 
 8/23/20
-- Major update to themes. Especially for html and js. Colors and scopes refactored for better readability and to easily identify pieces of code and the scope(s) they are in. 
+
+- Major update to themes. Especially for html and js. Colors and scopes refactored for better readability and to easily identify pieces of code and the scope(s) they are in.
 
 9/20/20
 
@@ -46,8 +47,12 @@ PUG
 
 12/5/20
 
-- Trying out some italics for classes in html and some other places in html and js. 
+- Trying out some italics for classes in html and some other places in html and js.
 
 12/23/20
 
 - Changed color for string template literals and punctuation to stand out so it is easier to differentiate.
+
+12/28/20
+
+- Color changes to functions and callback functions to be shades of green. Makes it easier to identify same type in different scopes.
