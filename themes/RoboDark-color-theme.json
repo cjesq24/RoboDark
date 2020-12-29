@@ -325,7 +325,6 @@
       ],
       "settings": {
         "foreground": "#10b1fe",
-        "fontStyle": "italic"
       }
     },
     {
@@ -346,7 +345,6 @@
       ],
       "settings": {
         "foreground": "#4482f5",
-        "fontStyle": "italic"
       }
     },
     {
@@ -368,6 +366,17 @@
         "meta.function-call",
         "meta.method-call",
         "variable.function",
+        "storage.type.function.js",
+        "meta.function.js",
+        "source.js"
+      ],
+      "settings": {
+        "foreground": "#39ff14"
+      }
+    },
+    {
+      "name": "JS Functions",
+      "scope": [
         "storage.type.function.js",
         "meta.function.js",
         "source.js"
@@ -468,7 +477,8 @@
         "text.html.derivative"
       ],
       "settings": {
-        "foreground": "#e84393"
+        "foreground": "#e84393",
+        "fontStyle": "italic",
       }
     },
     {
@@ -587,16 +597,14 @@
         "support.variable.magic.python"
       ],
       "settings": {
-        "foreground": "#7d57ef",
-        "fontStyle": "italic",
+        "foreground": "#7d57ef"
       }
     },
     {
       "name": "Tags",
       "scope": ["entity.name.tag", "punctuation.definition.tag"],
       "settings": {
-        "foreground": "#0a79ff",
-        "fontStyle": "italic"
+        "foreground": "#0a79ff"
       }
     },
     {
@@ -662,7 +670,6 @@
         "string.comment",
         "comment.block.documentation",
         "comment.block",
-        "keyword",
         "keyword.operator.expression",
         "keyword.operator.new",
         "variable.language",
@@ -680,12 +687,12 @@
     {
       "name": "No Italic",
       "scope": [
-        // "keyword.operator",
-        // "keyword.other.unit",
-        // "support.type.property-name",
-        // "keyword.other.special-method",
-        // "entity.name.tag",
-        "function"
+         "keyword.operator",
+         "keyword.other.unit",
+         "support.type.property-name",
+         "keyword.other.special-method",
+         "entity.name.tag",
+         "function"
       ],
       "settings": {
         "fontStyle": ""
@@ -793,8 +800,7 @@
         "text.html.derivative"
       ],
       "settings": {
-        "foreground": "#fee440",
-        "fontStyle": "italic"
+        "foreground": "#fee440"
       }
     },
     {
@@ -1020,10 +1026,11 @@
       }
     },
     {
-      "name": "DOM Method",
+      "name": "DOM Methods",
       "scope": [
         "entity.name.function.js",
         "meta.method-call.with-arguments.js",
+        "meta.function.js",
         "source.js"
       ],
       "settings": {

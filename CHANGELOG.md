@@ -56,3 +56,7 @@ PUG
 12/28/20
 
 - Color changes to functions and callback functions to be shades of green. Makes it easier to identify same type in different scopes.
+
+12/29/20
+
+- Removed italics in multiple places. Removed redundancy in functions.
