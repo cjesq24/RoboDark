@@ -414,7 +414,7 @@
     },
     {
       "name": "DOM Object",
-      "scope": "support.type.object.dom.js",
+      "scope": ["support.type.object.dom.js", "source.js"],
       "settings": {
         "foreground": "#eff22c",
       }
