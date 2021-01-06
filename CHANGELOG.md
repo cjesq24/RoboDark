@@ -60,3 +60,7 @@ PUG
 12/29/20
 
 - Removed italics in multiple places. Removed redundancy in functions.
+
+1/6/21
+
+- Minor update. Enahnced syntax highlighting for punctuation and fixed some issues with JavaScript functions. New colors for arrow => functions, methods, and constructors. Added other color types to enhance readability and type recognition.
