@@ -373,7 +373,7 @@
         "foreground": "#39ff14"
       }
     },
-  
+
     {
       "name": "Callback Function",
       "scope":[
@@ -426,7 +426,7 @@
         "foreground": "#1671e1"
       }
     },
-  
+
     {
       "name": "Inherited Class",
       "scope": [
@@ -621,7 +621,7 @@
         "foreground": "#7b94f8"
       }
     },
-   
+
     {
       "name": "Markup Italic",
       "scope": ["markup.italic"],
@@ -1159,5 +1159,14 @@
         "foreground": "#ff936a"
       }
     }
-  ]
+  ],
+
+  "semanticTokenColors": {
+    "clsParameter:python": "#e99e12",
+    "string:python": "#ffffff",
+    "function:python": "#d712e9",
+    "module": "#ff0000",
+    "operator": "#00ffc8",
+    "namespace": "#fff659",
+  }
 }
