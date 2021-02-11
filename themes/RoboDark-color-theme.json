@@ -1,6 +1,6 @@
 {
   "name": "RoboDark",
-  "semanticHighlighting": false,
+  "semanticHighlighting": true,
   "colors": {
     "focusBorder": "#3691ff",
     "editor.background": "#010102",
@@ -1158,15 +1158,61 @@
       "settings": {
         "foreground": "#ff936a"
       }
+    },
+    {
+      "name": "Python Functions",
+      "scope": "entity.name.function.python",
+      "settings": {
+        "foreground": "#2bd5ff"
+      }
+    },
+    {
+      "name": "Python Magic Functions",
+      "scope": "support.function.magic.python",
+      "settings": {
+        "foreground": "#2bff2b"
+      }
+    },
+    {
+      "name": "Python Magic Functions",
+      "scope": "support.function.builtin.python",
+      "settings": {
+        "foreground": "#4ee7e0"
+      }
+    },
+    {
+      "name": "Python Doc Strings",
+      "scope": "string.quoted.docstring.multi.python",
+      "settings": {
+        "foreground": "#5a89c7"
+      }
+    },
+    {
+      "name": "Python Strings",
+      "scope": "string.quoted.single.python",
+      "settings": {
+        "foreground": "#ffb13b"
+      }
+    },
+    {
+      "name": "Python Strings",
+      "scope": "string.quoted.double.python",
+      "settings": {
+        "foreground": "#ffb13b"
+      }
+    },
+    {
+      "name": "Python comments",
+      "scope": "comment.line.number-sign.python",
+      "settings": {
+        "foreground": "#ffffff"
+      }
     }
   ],
-
   "semanticTokenColors": {
-    "clsParameter:python": "#e99e12",
-    "string:python": "#ffffff",
-    "function:python": "#d712e9",
-    "module": "#ff0000",
-    "operator": "#00ffc8",
-    "namespace": "#fff659",
+    "clsParameter:python3": "#e99e12",
+    "string:python3": "#ffffff",
+    "module": "#2f7fca",
+    "variable.declaration:python": "#fee440",
   }
 }
