@@ -5,7 +5,7 @@
     "author": {
         "name": "Chad LaVeglia"
     },
-    "version": "1.4.0",
+    "version": "1.5.0",
     "engines": {
         "vscode": "^1.47.0"
     },
@@ -42,11 +42,9 @@
         "awesome",
         "elegant"
     ],
-
-	"__metadata": {
-		"id": "a5ffcdce-47f1-4af8-862f-9e56a886091e",
-		"publisherId": "e2e75171-6762-4615-9064-d1bc26a2642e",
-		"publisherDisplayName": "Chad LaVeglia"
-	}
+    "__metadata": {
+        "id": "a5ffcdce-47f1-4af8-862f-9e56a886091e",
+        "publisherId": "e2e75171-6762-4615-9064-d1bc26a2642e",
+        "publisherDisplayName": "Chad LaVeglia"
+    }
 }
-
