@@ -1207,6 +1207,20 @@
       "settings": {
         "foreground": "#ffffff"
       }
+    },
+    {
+      "name": "Python Meta Function Call",
+      "scope": "meta.function-call.generic.python",
+      "settings": {
+        "foreground": "#65c43f"
+      }
+    },
+    {
+      "name": "Python Other",
+      "scope": ["other.python", "meta.variable.other.python", "meta.function.other.python" ],
+      "settings": {
+        "foreground": "#3f57c4"
+      }
     }
   ],
   "semanticTokenColors": {
@@ -1214,5 +1228,7 @@
     "string:python3": "#ffffff",
     "module": "#2f7fca",
     "variable.declaration:python": "#fee440",
+    "method.abstract:python": "#242a79d2",
+    "variable:python": "#00eeff"
   }
 }
