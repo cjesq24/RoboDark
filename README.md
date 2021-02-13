@@ -43,8 +43,8 @@ Hope you enjoy!
 ![JavaScript ](https://github.com/cjesq24/RoboDark/raw/master/Screenshots/js-RoboDark.png)
 ![JavaScript ](https://github.com/cjesq24/RoboDark/raw/master/Screenshots/jsSS.png)
 
-6. Python
-![Python ](https://github.com/cjesq24/RoboDark/raw/master/Screenshots/python.png)
+6. New Python
+![Python ](https://github.com/cjesq24/RoboDark/raw/master/Screenshots/Python--new2021.png)
 
 7. Red and Green Borders
 ![Html2](https://github.com/cjesq24/RoboDark/raw/master/Screenshots/border.png)
