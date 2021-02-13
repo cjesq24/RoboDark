@@ -1207,12 +1207,34 @@
       "settings": {
         "foreground": "#ffffff"
       }
+    },
+    {
+      "name": "Python Meta Function Call",
+      "scope": "meta.function-call.generic.python",
+      "settings": {
+        "foreground": "#65c43f"
+      }
+    },
+    {
+      "name": "Python Other",
+      "scope": ["other.python", "meta.variable.other.python", "meta.function.other.python" ],
+      "settings": {
+        "foreground": "#5d78ec"
+      }
+    },
+    {
+      "name": "Python Other Two",
+      "scope": ["other.source.python", "meta.variable.other.python", "meta.function.other.python" ],
+      "settings": {
+        "foreground": "#573fc4"
+      }
     }
   ],
   "semanticTokenColors": {
     "clsParameter:python3": "#e99e12",
-    "string:python3": "#ffffff",
     "module": "#2f7fca",
     "variable.declaration:python": "#fee440",
+    "method.abstract:python": "#51a6c0",
+    "variable:python": "#00eeff"
   }
 }
