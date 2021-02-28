@@ -68,3 +68,7 @@ PUG
 2/12/21
 
 - Added greater Python functionality. Coloring to var, func, meta ops, and more. Semantic highlighting set to true.
+
+2/28/21
+
+- VUE syntax coloring for meta directives
