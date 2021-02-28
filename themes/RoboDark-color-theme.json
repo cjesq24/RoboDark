@@ -1223,6 +1223,13 @@
       }
     },
     {
+      "name": "Vue Meta Directive",
+      "scope": "meta.directive.vue",
+      "settings": {
+        "foreground": "#e875ff"
+      }
+    },
+    {
       "name": "Python Other Two",
       "scope": ["other.source.python", "meta.variable.other.python", "meta.function.other.python" ],
       "settings": {
