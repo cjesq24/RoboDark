@@ -1,6 +1,8 @@
 # README
 
-A dark theme with enhanced syntax highlighting for JavaScript, HTML, and CSS. It's not just visually appealing but practical as well. The scoped syntax makes it easy to identify your code and visualize its structure. RoboDark offers a broad spectrum of magic colors beautifully contrasted with the dark theme behind it. It supports:
+A dark theme with enhanced syntax highlighting intended for JavaScript, HTML, and CSS. But it goes further and is continuously being updated.
+
+It's not just visually appealing but practical as well. The scoped syntax makes it easy to identify your code and visualize its structure. RoboDark offers a broad spectrum of magic colors, beautifully contrasted with the dark theme behind it. Types, are are consistently colored across langauges as much as possible. See the beauty in your code, identify its structure, and quickly spot mistaked. The langauges currently supported are:
 
 - JavaScript
 
@@ -17,8 +19,9 @@ A dark theme with enhanced syntax highlighting for JavaScript, HTML, and CSS. It
 - REACT
 
 - Pug
+- Vue
 
- Where it stands out though? JavaScript. For instance, a method is colored differently than a function, which is colored differenbtly than a DOM method. RoboDark was created for JavaScript scoped syntax highlighting. It features Multi-colored punctuation, which is great for focusing on the bigger picture without loosing sight of the details.
+ RoboDark has its roots in JavaScript, so that's where it shines. It features Multi-colored punctuation as well, which is great for focusing on the bigger picture without loosing sight of the details. Consistent, eye popping colors, seperate every piece of your code.
 
 Its clean and stylish design is easy on the eyes. Inspired by Umut Topuzoğlu's Bluloco Dark Theme, RoboDark builds upon the great Bluloco color palette to create a better user experience.The colors are nice, but its scoped syntax highlighting is even nicer! Feel free to fork.
 
@@ -43,7 +46,7 @@ Hope you enjoy!
 ![JavaScript ](https://github.com/cjesq24/RoboDark/raw/master/Screenshots/js-RoboDark.png)
 ![JavaScript ](https://github.com/cjesq24/RoboDark/raw/master/Screenshots/jsSS.png)
 
-6. New Python
+6. Python3
 ![Python ](https://github.com/cjesq24/RoboDark/raw/master/Screenshots/Python-2021.png)
 
 7. Red and Green Borders
@@ -63,4 +66,5 @@ Hope you enjoy!
 
 ## Note
 
-- To use all the enhances features make sure to go to Preferences > Settings and type theme in the search bar. Go to  "Editor: Token Color Customizations" and edit the JSON setting semanticTokenColorCustomizations to be false.
+- VSCode has options which may affect this theme. Semantic highlighting affects the layout. It is disabled by default. But you can override the setting if you prefer the additional highlighting. To do so: Go to  "Editor: Token Color Customizations" and edit the JSON setting semanticTokenColorCustomizations to be true.
+- Set ligature to True.
