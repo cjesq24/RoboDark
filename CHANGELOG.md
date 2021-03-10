@@ -72,3 +72,7 @@ PUG
 2/28/21
 
 - VUE syntax coloring for meta directives
+
+3/10/21
+
+- Added more python syntax xoloring.
