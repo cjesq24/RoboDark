@@ -228,7 +228,7 @@
         "comment.block"
       ],
       "settings": {
-        "foreground": "#9ea0a1",
+        "foreground": "#e8ae70",
         "fontStyle": "italic"
       }
     },
@@ -1082,6 +1082,13 @@
       }
     },
     {
+      "name": "Typescript Type",
+      "scope": "support.type.primitive.ts",
+      "settings": {
+        "foreground": "#02a8d1",
+      }
+    },
+    {
       "name": "BASH: Command Substitution",
       "scope": "string.interpolated.dollar.shell",
       "settings": {
@@ -1234,6 +1241,13 @@
       "scope": "meta.directive.vue",
       "settings": {
         "foreground": "#e875ff"
+      }
+    },
+    {
+      "name": "Python Formatted Literals",
+      "scope": "constant.character.format.placeholder.other.python",
+      "settings": {
+        "foreground": "#d6ff43"
       }
     },
     {
