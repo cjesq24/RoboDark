@@ -1222,6 +1222,13 @@
         "foreground": "#5d78ec"
       }
     },
+     {
+      "name": "Vue Meta Directive",
+      "scope": "meta.directive.vue",
+      "settings": {
+        "foreground": "#e875ff"
+      }
+    },
     {
       "name": "Vue Meta Directive",
       "scope": "meta.directive.vue",
