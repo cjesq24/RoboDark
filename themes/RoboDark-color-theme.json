@@ -1,6 +1,6 @@
 {
   "name": "RoboDark",
-  "semanticHighlighting": true,
+  "semanticHighlighting": false,
   "colors": {
     "focusBorder": "#3691ff",
     "editor.background": "#010102",
