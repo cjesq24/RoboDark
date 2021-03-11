@@ -1251,6 +1251,13 @@
       }
     },
     {
+      "name": "Python function decorator",
+      "scope": "entity.name.function.decorator.python",
+      "settings": {
+        "foreground": "#2bff2b"
+      }
+    },
+    {
       "name": "Python Other Two",
       "scope": ["other.source.python", "meta.variable.other.python", "meta.function.other.python" ],
       "settings": {
