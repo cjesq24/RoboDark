@@ -76,3 +76,4 @@ PUG
 3/10/21
 
 - Added more python syntax xoloring.
+- add color for python decorated functions
