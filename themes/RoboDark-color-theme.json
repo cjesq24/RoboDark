@@ -1202,6 +1202,13 @@
       }
     },
     {
+      "name": "Python Meta Function Bracket",
+      "scope": 	"meta.function.python",
+      "settings": {
+        "foreground": "#c074ff"
+      }
+    },
+    {
       "name": "Python Strings",
       "scope": "string.quoted.double.python",
       "settings": {
