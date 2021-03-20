@@ -1270,6 +1270,14 @@
       "settings": {
         "foreground": "#573fc4"
       }
+    },
+    {
+      "name": "SCSS Variables",
+      "scope": "variable.other.root",
+      "settings": {
+        "foreground": "#ff00f2",
+      }
+
     }
   ],
   "semanticTokenColors": {
