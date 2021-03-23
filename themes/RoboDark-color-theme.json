@@ -1272,6 +1272,13 @@
       }
     },
     {
+      "name": "SASS Class Name",
+      "scope": ["entity.other.attribute-name.class.css.sass" ],
+      "settings": {
+        "foreground": "#ff8ef0"
+      }
+    },
+    {
       "name": "SCSS Variables",
       "scope": "variable.other.root",
       "settings": {
