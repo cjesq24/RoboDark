@@ -1286,6 +1286,13 @@
       }
     },
     {
+      "name": "GraphQL Entity Name Function",
+      "scope": "entity.name.function.graphql",
+      "settings": {
+        "foreground": "#ffebfc"
+      }
+    },
+    {
       "name": "SCSS Variables",
       "scope": "variable.other.root",
       "settings": {
