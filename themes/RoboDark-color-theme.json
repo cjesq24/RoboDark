@@ -1279,6 +1279,13 @@
       }
     },
     {
+      "name": "GraphQL Built In Type",
+      "scope": ["support.type.builtin.graphql" ],
+      "settings": {
+        "foreground": "#f51cd8"
+      }
+    },
+    {
       "name": "SCSS Variables",
       "scope": "variable.other.root",
       "settings": {
