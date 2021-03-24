@@ -302,7 +302,7 @@
       "name": "Square Brackets JS",
       "scope": ["meta.brace.square", "meta.brace.square.js"],
       "settings": {
-        "foreground": "#2600ff",
+        "foreground": "#2f8fbb",
       }
     },
     {
