@@ -44,9 +44,10 @@ Hope you enjoy!
 4. JavaScript
 ![JavaScript ](https://github.com/cjesq24/RoboDark/raw/master/Screenshots/js-RoboDark.png)
 ![JavaScript ](https://github.com/cjesq24/RoboDark/raw/master/Screenshots/jsSS.png)
+
 ![JavaScript ](https://github.com/cjesq24/RoboDark/raw/master/Screenshots/JavaScript1.png)
 
-Same code, except it's inlined in html.
+Same code as directly above, without semantic highlighting
 
 ![JavaScript ](https://github.com/cjesq24/RoboDark/raw/master/Screenshots/JavaScript_Inline.png)
 
