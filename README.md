@@ -34,7 +34,7 @@ Hope you enjoy!
 1. HTML + CSS
 ![html & CSS](https://github.com/cjesq24/RoboDark/raw/master/Screenshots/Robo-html.png)
 
-2. New HTML Theme
+2. HTML Theme
 ![Html2](https://github.com/cjesq24/RoboDark/raw/master/Screenshots/htmlNew.png)
 
 3. React
