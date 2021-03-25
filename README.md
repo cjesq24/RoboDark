@@ -45,8 +45,10 @@ Hope you enjoy!
 ![JavaScript ](https://github.com/cjesq24/RoboDark/raw/master/Screenshots/js-RoboDark.png)
 ![JavaScript ](https://github.com/cjesq24/RoboDark/raw/master/Screenshots/jsSS.png)
 ![JavaScript ](https://github.com/cjesq24/RoboDark/raw/master/Screenshots/JavaScript1.png)
+
 Same code, except it's inlined in html.
-![JavaScript ](https://github.com/cjesq24/RoboDark/raw/master/Screenshots/JavaScript_inline.png)
+
+![JavaScript ](https://github.com/cjesq24/RoboDark/raw/master/Screenshots/JavaScript_Inline.png)
 
 5. Python3
 ![Python ](https://github.com/cjesq24/RoboDark/raw/master/Screenshots/Python-2021.png)
