@@ -77,3 +77,12 @@ PUG
 
 - Added more python syntax xoloring.
 - add color for python decorated functions
+
+3/25/21
+
+- Lightened color for square brackets to be more visible
+- Added some GraphQL syntax colors
+- Added some Python3 colors
+- Fine tuned some JS syntax
+- Working on Vue with Vetur extension
+- SASS syntax added for variabled (with semantic highlighting enabled in preferences)
