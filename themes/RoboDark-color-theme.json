@@ -1296,7 +1296,7 @@
       "name": "Python Items",
       "scope": "meta.item-access.python",
       "settings": {
-        "foreground": "#3d852e"
+        "foreground": "#45ad00"
       }
     },
     {
@@ -1314,6 +1314,9 @@
     "variable.declaration:python": "#fee440",
     "method.abstract:python": "#51a6c0",
     "variable:python": "#00eeff",
-    "method.builtin:python": "#3d852e"
-  }
+    "method.builtin:python": "#45ad00",
+    "parameter:python": "#ff00f2",
+    "enum:python": "#0a43ff",
+    "source.python": "#a18cff"
+  },
 }
