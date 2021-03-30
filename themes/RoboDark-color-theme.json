@@ -1293,6 +1293,13 @@
       }
     },
     {
+      "name": "Python Items",
+      "scope": "meta.item-access.python",
+      "settings": {
+        "foreground": "#5fff38"
+      }
+    },
+    {
       "name": "SCSS Variables",
       "scope": "variable.other.root",
       "settings": {
