@@ -1313,6 +1313,7 @@
     "module": "#2f7fca",
     "variable.declaration:python": "#fee440",
     "method.abstract:python": "#51a6c0",
-    "variable:python": "#00eeff"
+    "variable:python": "#00eeff",
+    "method.builtin:python": "#2bff2b"
   }
 }
