@@ -86,3 +86,7 @@ PUG
 - Fine tuned some JS syntax
 - Working on Vue with Vetur extension
 - SASS syntax added for variabled (with semantic highlighting enabled in preferences)
+
+4/1/21
+
+- Syntax for js object variables

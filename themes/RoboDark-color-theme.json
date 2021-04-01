@@ -1300,6 +1300,13 @@
       }
     },
     {
+      "name": "JavaScript Object Variables",
+      "scope": "variable.other.object.js",
+      "settings": {
+        "foreground": "#d3234c"
+      }
+    },
+    {
       "name": "SCSS Variables",
       "scope": "variable.other.root",
       "settings": {
