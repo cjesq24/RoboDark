@@ -90,3 +90,4 @@ PUG
 4/1/21
 
 - Syntax for js object variables
+- JS Arrow color changed to neon green for better visibility
