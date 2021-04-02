@@ -1307,12 +1307,18 @@
       }
     },
     {
+      "name": "JavaScript Arrow",
+      "scope": "storage.type.function.arrow.js",
+      "settings": {
+        "foreground": "#39ff27"
+      }
+    },
+    {
       "name": "SCSS Variables",
       "scope": "variable.other.root",
       "settings": {
         "foreground": "#ff00f2",
       }
-
     }
   ],
   "semanticTokenColors": {
