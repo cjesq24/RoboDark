@@ -1293,6 +1293,15 @@
       }
     },
     {
+      "name": "JSX Text",
+      "scope": ["JSXNested",
+                "JSXAttrs",
+                "meta.tag.jsx"],
+      "settings": {
+        "foreground": "#ffffff"
+      }
+    },
+    {
       "name": "Python Items",
       "scope": "meta.item-access.python",
       "settings": {
