@@ -589,8 +589,8 @@
       }
     },
     {
-      "name": "Attribute IDs",
-      "scope": ["entity.other.attribute-name.html", "entity.other.attribute-name.svelte", "string.unquoted.alias.graphql"],
+      "name": "Attribute IDs HTML, JSX",
+      "scope": ["entity.other.attribute-name.html", "entity.other.attribute-name.svelte", "string.unquoted.alias.graphql", "entity.other.attribute-name.js"],
       "settings": {
         "foreground": "#3bf065"
       }
