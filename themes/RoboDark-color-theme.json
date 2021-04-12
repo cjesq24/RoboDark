@@ -1323,6 +1323,13 @@
       }
     },
     {
+      "name": "JavaScript Curly Meta Braces",
+      "scope": "meta.brace.curly.js",
+      "settings": {
+        "foreground": "#27dfff"
+      }
+    },
+    {
       "name": "SCSS Variables",
       "scope": "variable.other.root",
       "settings": {
