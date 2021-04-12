@@ -91,3 +91,7 @@ PUG
 
 - Syntax for js object variables
 - JS Arrow color changed to neon green for better visibility
+
+4/11/21
+
+- JSX syntax for text in html and attributes (props)
