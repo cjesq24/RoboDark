@@ -1330,6 +1330,13 @@
       }
     },
     {
+      "name": "JSX Attribute Name",
+      "scope": "entity.other.attribute-name.jsx",
+      "settings": {
+        "foreground": "#bc50ff"
+      }
+    },
+    {
       "name": "SCSS Variables",
       "scope": "variable.other.root",
       "settings": {
