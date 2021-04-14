@@ -95,3 +95,7 @@ PUG
 4/11/21
 
 - JSX syntax for text in html and attributes (props)
+
+4/14/21
+
+- TSX syntax where there were no colors
