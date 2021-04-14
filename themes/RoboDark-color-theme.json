@@ -401,8 +401,7 @@
         "support.type.enum.graphql"
       ],
       "settings": {
-        "foreground": "#ff6480",
-        "fontStyle": "bold"
+        "foreground": "#c03750ea",
       }
     },
     {
@@ -905,7 +904,7 @@
         "meta.method-call.with-arguments.js"
       ],
       "settings": {
-        "foreground": "#9b59b6",
+        "foreground": "#b46ad1",
       }
     },
     {
@@ -1334,6 +1333,48 @@
       "scope": "entity.other.attribute-name.jsx",
       "settings": {
         "foreground": "#bc50ff"
+      }
+    },
+    {
+      "name": "TSX Component",
+      "scope": "support.class.component.tsx",
+      "settings": {
+        "foreground": "#ffc250"
+      }
+    },
+    {
+      "name": "TS String Template",
+      "scope": "string.template.tsx",
+      "settings": {
+        "foreground": "#73ff50"
+      }
+    },
+    {
+      "name": "TS Function",
+      "scope": "entity.name.function.tsx",
+      "settings": {
+        "foreground": "#e0445eec"
+      }
+    },
+    {
+      "name": "TS Imported Variable",
+      "scope": "variable.other.readwrite.al",
+      "settings": {
+        "foreground": "#56fda9"
+      }
+    },
+    {
+      "name": "TSX Rendered Html",
+      "scope": "meta.jsx.children.tsx",
+      "settings": {
+        "foreground": "#ffffff"
+      }
+    },
+    {
+      "name": "TSX Attribute",
+      "scope": "entity.other.attribute-name.tsx",
+      "settings": {
+        "foreground": "#63fba8e7"
       }
     },
     {
