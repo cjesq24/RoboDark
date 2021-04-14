@@ -1339,7 +1339,7 @@
       "name": "TSX Component",
       "scope": "support.class.component.tsx",
       "settings": {
-        "foreground": "#ffc250"
+        "foreground": "#dea233ee"
       }
     },
     {
@@ -1358,7 +1358,7 @@
     },
     {
       "name": "TS Imported Variable",
-      "scope": "variable.other.readwrite.al",
+      "scope": ["variable.other.readwrite.al", "variable.other.readwrite.alias.tsx"],
       "settings": {
         "foreground": "#56fda9"
       }
@@ -1368,6 +1368,20 @@
       "scope": "meta.jsx.children.tsx",
       "settings": {
         "foreground": "#ffffff"
+      }
+    },
+    {
+      "name": "Entity Name Module TSX",
+      "scope": "entity.name.type.module.tsx",
+      "settings": {
+        "foreground": "#e965e9"
+      }
+    },
+    {
+      "name": "Entity Name TSX",
+      "scope": "entity.name.type.tsx",
+      "settings": {
+        "foreground": "#5d7bbb"
       }
     },
     {
