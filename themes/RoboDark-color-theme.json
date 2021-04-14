@@ -1364,6 +1364,13 @@
       }
     },
     {
+      "name": "TS Type Alias",
+      "scope": ["entity.name.type.alias.tsx"],
+      "settings": {
+        "foreground": "#f0dc6e"
+      }
+    },
+    {
       "name": "TSX Rendered Html",
       "scope": "meta.jsx.children.tsx",
       "settings": {
