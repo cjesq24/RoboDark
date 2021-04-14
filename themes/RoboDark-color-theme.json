@@ -1388,7 +1388,7 @@
       "name": "Entity Name TSX",
       "scope": "entity.name.type.tsx",
       "settings": {
-        "foreground": "#5d7bbb"
+        "foreground": "#5883df"
       }
     },
     {
