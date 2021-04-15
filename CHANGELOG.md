@@ -99,3 +99,4 @@ PUG
 4/14/21
 
 - TSX syntax where there were no colors
+- support for primitive types

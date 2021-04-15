@@ -1400,6 +1400,13 @@
       }
     },
     {
+      "name": "TSX Primitives",
+      "scope": "support.type.primitive.tsx",
+      "settings": {
+        "foreground": "#ebff93e7"
+      }
+    },
+    {
       "name": "SCSS Variables",
       "scope": "variable.other.root",
       "settings": {
