@@ -481,7 +481,7 @@
         "string.quoted.template.js",
       ],
       "settings": {
-        "foreground": "#14c1aa",
+        "foreground": "#ff33ff",
       }
     },
     {
@@ -492,18 +492,19 @@
         "string.quoted.template.js",
       ],
       "settings": {
-        "foreground": "#14c1aa",
+        "foreground": "#ff33ff",
       }
     },
     {
       "name": "JS Meta Brace Round",
       "scope": [
         "meta.brace.round.js",
+        "meta.brace.round.ts",
         "meta.method-call.with-arguments.js",
         "source.js"
       ],
       "settings": {
-        "foreground": "#f24141",
+        "foreground": "#f24141fa",
       }
     },
     {
