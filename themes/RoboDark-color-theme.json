@@ -1005,6 +1005,7 @@
     {
       "name": "Tag End",
       "scope": [
+        "meta.parameters.tsx",
         "punctuation.definition.tag.end.html",
         "meta.tag.metadata.meta.void.html",
         "text.html.derivative"
