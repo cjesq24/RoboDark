@@ -1408,6 +1408,13 @@
       }
     },
     {
+      "name": "JS Tyype Instance",
+      "scope": "entity.name.type.instance.js",
+      "settings": {
+        "foreground": "#2a8de4e7"
+      }
+    },
+    {
       "name": "SCSS Variables",
       "scope": "variable.other.root",
       "settings": {
