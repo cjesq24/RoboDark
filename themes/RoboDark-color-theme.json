@@ -1404,7 +1404,7 @@
       "name": "TSX Primitives",
       "scope": "support.type.primitive.tsx",
       "settings": {
-        "foreground": "#ebff93e7"
+        "foreground": "#ffef93e7"
       }
     },
     {
