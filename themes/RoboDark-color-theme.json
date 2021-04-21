@@ -1408,7 +1408,7 @@
       }
     },
     {
-      "name": "JS Tyype Instance",
+      "name": "JS Type Instance",
       "scope": "entity.name.type.instance.js",
       "settings": {
         "foreground": "#2a8de4e7"
