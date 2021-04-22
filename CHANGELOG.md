@@ -4,7 +4,7 @@ All notable changes to the "robodark" extension will be documented in this file.
 
 ## [Released]
 
- 8/13/20
+8/13/20
 
 - Initial release
 - Changed Icon
@@ -85,7 +85,7 @@ PUG
 - Added some Python3 colors
 - Fine tuned some JS syntax
 - Working on Vue with Vetur extension
-- SASS syntax added for variabled (with semantic highlighting enabled in preferences)
+- SASS syntax added for variables (with semantic highlighting enabled in preferences)
 
 4/1/21
 
@@ -100,3 +100,10 @@ PUG
 
 - TSX syntax where there were no colors
 - support for primitive types
+
+4/22/21
+
+- JS: changed constructor color to be lighter
+- JS: quoted strings changed from orange to light orange/yellow
+- JS: console.log color changed
+- JS: changed punctuation color for classes to stand out, it blended to much with nested props and methods
