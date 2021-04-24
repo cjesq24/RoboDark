@@ -1353,7 +1353,7 @@
 			"name": "TSX Component",
 			"scope": "support.class.component.tsx",
 			"settings": {
-				"foreground": "#ffac13"
+				"foreground": "#f0ac00"
 			}
 		},
 		{
@@ -1365,7 +1365,7 @@
 		},
 		{
 			"name": "TS Function",
-			"scope": "entity.name.function.tsx",
+			"scope": ["entity.name.function.tsx", "entity.name.function.ts"],
 			"settings": {
 				"foreground": "#e9576fec"
 			}
@@ -1374,7 +1374,8 @@
 			"name": "TS Imported Variable",
 			"scope": [
 				"variable.other.readwrite.al",
-				"variable.other.readwrite.alias.tsx"
+				"variable.other.readwrite.alias.tsx",
+				"variable.other.readwrite.alias.ts"
 			],
 			"settings": {
 				"foreground": "#56fda9"
