@@ -1325,7 +1325,7 @@
 			"name": "JavaScript Object Variables",
 			"scope": "variable.other.object.js",
 			"settings": {
-				"foreground": "#d3234c"
+				"foreground": "#ff295b"
 			}
 		},
 		{
@@ -1353,7 +1353,7 @@
 			"name": "TSX Component",
 			"scope": "support.class.component.tsx",
 			"settings": {
-				"foreground": "#dea233ee"
+				"foreground": "#ffac13"
 			}
 		},
 		{
@@ -1367,7 +1367,7 @@
 			"name": "TS Function",
 			"scope": "entity.name.function.tsx",
 			"settings": {
-				"foreground": "#e0445eec"
+				"foreground": "#e9576fec"
 			}
 		},
 		{
@@ -1409,6 +1409,13 @@
 			}
 		},
 		{
+			"name": "TSX Variable Other",
+			"scope": "variable.other.readwrite.tsx",
+			"settings": {
+				"foreground": "#6ddefa"
+			}
+		},
+		{
 			"name": "TSX Attribute",
 			"scope": "entity.other.attribute-name.tsx",
 			"settings": {
@@ -1419,7 +1426,7 @@
 			"name": "TSX Primitives",
 			"scope": "support.type.primitive.tsx",
 			"settings": {
-				"foreground": "#ffef93e7"
+				"foreground": "#e4be5ee7"
 			}
 		},
 		{
