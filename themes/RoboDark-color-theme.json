@@ -456,7 +456,7 @@
 				"storage.type.string"
 			],
 			"settings": {
-				"foreground": "#3284ff"
+				"foreground": "#fcff32"
 			}
 		},
 		{
@@ -938,7 +938,7 @@
 			"name": "JS Quoted Strings",
 			"scope": ["string.quoted.double.js", "string.quoted.single.js"],
 			"settings": {
-				"foreground": "#ffde70"
+				"foreground": "#fbf26f"
 			}
 		},
 		{
@@ -1031,7 +1031,7 @@
 				"text.html.derivative"
 			],
 			"settings": {
-				"foreground": "#0984e3"
+				"foreground": "#edff4f"
 			}
 		},
 		{
