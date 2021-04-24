@@ -4,7 +4,7 @@ RoboDark BRINGS YOUR CODE TO LIFE!
 
 A dark theme with enhanced syntax highlighting intended for JavaScript, HTML, and CSS. But it goes further and is continuously being updated.
 
-It's not just visually appealing but practical as well. The scoped syntax makes it easy to identify your code and visualize its structure. RoboDark offers a broad spectrum of magic colors, beautifully contrasted with the dark theme behind it. Types, are are consistently colored across langauges as much as possible. See the beauty in your code, identify its structure, and quickly spot mistaked. The langauges currently supported are:
+It's not just visually appealing but practical as well. The scoped syntax makes it easy to identify your code and visualize its structure. RoboDark offers a broad spectrum of magic colors, beautifully contrasted with the dark theme behind it. Types, are are consistently colored across langauges as much as possible. See the beauty in your code, identify its structure, and quickly spot mistakes. The langauges currently supported are:
 
 - JavaScript
 
