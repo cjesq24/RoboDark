@@ -938,7 +938,7 @@
 			"name": "JS Quoted Strings",
 			"scope": ["string.quoted.double.js", "string.quoted.single.js"],
 			"settings": {
-				"foreground": "#fbf26f"
+				"foreground": "#fcff37"
 			}
 		},
 		{
