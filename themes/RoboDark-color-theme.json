@@ -1427,7 +1427,7 @@
 			"name": "TSX Primitives",
 			"scope": "support.type.primitive.tsx",
 			"settings": {
-				"foreground": "#e4be5ee7"
+				"foreground": "#93e179e7"
 			}
 		},
 		{
@@ -1435,6 +1435,16 @@
 			"scope": "entity.name.type.instance.js",
 			"settings": {
 				"foreground": "#2a8de4e7"
+			}
+		},
+		{
+			"name": "TSX Interface",
+			"scope": [
+				"entity.name.type.interface.tsx",
+				"entity.name.type.interface.ts"
+			],
+			"settings": {
+				"foreground": "#6af0ffe7"
 			}
 		},
 		{
