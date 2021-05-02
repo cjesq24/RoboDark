@@ -220,6 +220,7 @@
 		{
 			"name": "Comments",
 			"scope": [
+				"comment.line.double-slash.js",
 				"comment",
 				"punctuation.definition.comment",
 				"comment.block.documentation punctuation.definition",
@@ -228,7 +229,7 @@
 				"comment.block"
 			],
 			"settings": {
-				"foreground": "#e8ae70",
+				"foreground": "#b5aca2",
 				"fontStyle": "italic"
 			}
 		},
@@ -573,6 +574,20 @@
 			"scope": "none",
 			"settings": {
 				"foreground": "#ff78f8"
+			}
+		},
+		{
+			"name": "VUE Punctuation Begin",
+			"scope": "punctuation.definition.string.begin.js",
+			"settings": {
+				"foreground": "#54fe62"
+			}
+		},
+		{
+			"name": "VUE Punctuation End",
+			"scope": "punctuation.definition.string.end.js",
+			"settings": {
+				"foreground": "#54fe62"
 			}
 		},
 		{
@@ -1325,7 +1340,7 @@
 			"name": "JavaScript Object Variables",
 			"scope": "variable.other.object.js",
 			"settings": {
-				"foreground": "#ff295b"
+				"foreground": "#ff557c"
 			}
 		},
 		{
@@ -1435,6 +1450,13 @@
 			"scope": "entity.name.type.instance.js",
 			"settings": {
 				"foreground": "#2a8de4e7"
+			}
+		},
+		{
+			"name": "JS String Unquoted",
+			"scope": "string.unquoted.js",
+			"settings": {
+				"foreground": "#fa94f1e7"
 			}
 		},
 		{

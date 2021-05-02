@@ -107,3 +107,8 @@ PUG
 - JS: quoted strings changed from orange to light orange/yellow
 - JS: console.log color changed
 - JS: changed punctuation color for classes to stand out, it blended to much with nested props and methods
+
+5/2/21
+
+- JS/VUE: small adjustments to quoted and unquoted strings
+- punctuation tags changed to contrast with strings
