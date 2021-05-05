@@ -464,7 +464,6 @@
 			"name": "String Punctuation Begin",
 			"scope": [
 				"punctuation.definition.string.begin.html",
-				"string.quoted.double.html",
 				"meta.attribute.class.html",
 				"meta.tag.inline.i.start.html",
 				"text.html.derivative"
@@ -477,7 +476,6 @@
 			"name": "String Punctuation End",
 			"scope": [
 				"punctuation.definition.string.end.html",
-				"string.quoted.double.html",
 				"meta.attribute.class.html",
 				"meta.tag.inline.i.start.html",
 				"text.html.derivative"
@@ -629,7 +627,6 @@
 			"scope": [
 				"entity.other.attribute-name.html",
 				"entity.other.attribute-name.svelte",
-				"string.unquoted.alias.graphql",
 				"entity.other.attribute-name.js"
 			],
 			"settings": {
@@ -1046,7 +1043,7 @@
 				"text.html.derivative"
 			],
 			"settings": {
-				"foreground": "#edff4f"
+				"foreground": "#0a79ff"
 			}
 		},
 		{

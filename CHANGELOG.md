@@ -112,3 +112,8 @@ PUG
 
 - JS/VUE: small adjustments to quoted and unquoted strings
 - punctuation tags changed to contrast with strings
+
+5/4/21
+
+- Changed html syntax back to blue
+- Began using [Coenraads Bracket-Pair-Colorizer-2](https://github.com/CoenraadS/Bracket-Pair-Colorizer-2) It is a great utility and has better tag colors. Also available at [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2&ssr=false#review-details.)
