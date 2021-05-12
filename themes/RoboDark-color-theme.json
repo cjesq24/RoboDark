@@ -368,6 +368,7 @@
 			"scope": [
 				"variable.other.readwrite.ts",
 				"variable.other.readwrite.js",
+				"variable.other.name",
 				"source.elixir.embedded.source",
 				"string source.groovy",
 				"string meta.embedded.line.ruby"
@@ -962,7 +963,7 @@
 				"meta.method-call.with-arguments.js"
 			],
 			"settings": {
-				"foreground": "#0a43ff"
+				"foreground": "#3967ff"
 			}
 		},
 		{
