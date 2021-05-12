@@ -1363,6 +1363,16 @@
 			}
 		},
 		{
+			"name": "JSX Component Tags",
+			"scope": [
+				"support.class.component.close.jsx",
+				"support.class.component.open.jsx"
+			],
+			"settings": {
+				"foreground": "#2bff18"
+			}
+		},
+		{
 			"name": "TSX Component",
 			"scope": "support.class.component.tsx",
 			"settings": {

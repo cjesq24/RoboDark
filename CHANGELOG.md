@@ -121,3 +121,4 @@ PUG
 5/12/21
 
 - SASS variable colors
+- JSX Component Tags brighter
