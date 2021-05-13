@@ -5,7 +5,7 @@
     "author": {
         "name": "Chad LaVeglia"
     },
-    "version": "1.9.7",
+    "version": "1.9.8",
     "engines": {
         "vscode": "^1.47.0"
     },
