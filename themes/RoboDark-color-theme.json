@@ -1363,6 +1363,13 @@
 			}
 		},
 		{
+			"name": "JSX Punctuation Quotes",
+			"scope": ["punctuation.definition.string.begin.jsx","punctuation.definition.string.end.jsx"],
+			"settings": {
+				"foreground":  "#0a79ff"
+			}
+		},
+		{
 			"name": "JSX Component Tags",
 			"scope": [
 				"support.class.component.close.jsx",
