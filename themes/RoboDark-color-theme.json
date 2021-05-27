@@ -1490,7 +1490,56 @@
 			"settings": {
 				"foreground": "#ff00f2"
 			}
-		}
+		},
+		{
+			"name": "Prisma Variable",
+			"scope": "variable.other.assignment.prisma",
+			"settings": {
+				"foreground": "#fa77f4"
+			}
+		},
+		{
+			"name": "Prisma Type Config",
+			"scope": "entity.name.type.config.prisma",
+			"settings": {
+				"foreground": "#0273b0"
+			}
+		},
+		{
+			"name": "Prisma Type Config",
+			"scope": "entity.name.type.model.prisma",
+			"settings": {
+				"foreground": "#28b002"
+			}
+		},
+		{
+			"name": "Prisma Primitives",
+			"scope": "support.type.primitive.prisma",
+			"settings": {
+				"foreground": "#3602b0e3"
+			}
+		},
+		{
+			"name": "Prisma Function",
+			"scope": "support.function.functional.prisma",
+			"settings": {
+				"foreground": "#f48b1be3"
+			}
+		},
+		{
+			"name": "Prisma Entity Attribute",
+			"scope": "entity.name.function.attribute.prisma",
+			"settings": {
+				"foreground": "#6666f9e3"
+			}
+		},
+		{
+			"name": "Prisma Embedded",
+			"scope": "source.prisma.embedded.source",
+			"settings": {
+				"foreground": "#2e52e4e3"
+			}
+		},
 	],
 	"semanticTokenColors": {
 		"clsParameter:python3": "#e99e12",

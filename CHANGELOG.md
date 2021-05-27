@@ -122,3 +122,7 @@ PUG
 
 - SASS variable colors
 - JSX Component Tags brighter
+
+5/27/21
+
+- Prisma Syntax Highlighting
