@@ -1516,7 +1516,7 @@
 			"name": "Prisma Primitives",
 			"scope": "support.type.primitive.prisma",
 			"settings": {
-				"foreground": "#3602b0e3"
+				"foreground": "#f15050"
 			}
 		},
 		{
