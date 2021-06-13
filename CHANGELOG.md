@@ -126,3 +126,7 @@ PUG
 5/27/21
 
 - Prisma Syntax Highlighting
+
+6/12/21
+
+- Added GraphQL Syntax Highlighting
