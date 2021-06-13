@@ -1540,6 +1540,30 @@
 				"foreground": "#2e52e4e3"
 			}
 		},
+		{
+			"name": "GQL Variable Other",
+			"scope": "variable.other.alias.graphql",
+			"settings": {
+				"foreground": "#bfa0fce3",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"name": "GQL Decleration",
+			"scope": ["support", "declaration.meta.type"],
+			"settings": {
+				"foreground": "#ef41ffe3",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"name": "GQL Decleration",
+			"scope": "meta.selections",
+			"settings": {
+				"foreground": "#ff4444e3",
+
+			}
+		},
 	],
 	"semanticTokenColors": {
 		"clsParameter:python3": "#e99e12",
