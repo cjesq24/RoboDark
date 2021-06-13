@@ -1564,6 +1564,7 @@
 
 			}
 		},
+
 	],
 	"semanticTokenColors": {
 		"clsParameter:python3": "#e99e12",
