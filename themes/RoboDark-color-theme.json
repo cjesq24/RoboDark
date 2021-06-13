@@ -1552,7 +1552,7 @@
 			"name": "GQL Decleration",
 			"scope": ["support", "declaration.meta.type"],
 			"settings": {
-				"foreground": "#ef41ffe3",
+				"foreground": "#345dff",
 				"fontStyle": "bold"
 			}
 		},
@@ -1560,7 +1560,7 @@
 			"name": "GQL Decleration",
 			"scope": "meta.selections",
 			"settings": {
-				"foreground": "#ff4444e3",
+				"foreground": "#ffe344e5",
 
 			}
 		},
