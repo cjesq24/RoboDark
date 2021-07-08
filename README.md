@@ -30,20 +30,31 @@ Hope you enjoy!
 
 ## Screenshots
 
-1. HTML + CSS
-![html & CSS](https://github.com/cjesq24/RoboDark/raw/master/Screenshots/Robo-html.png)
+1. CSS: Color Your Code Like You Style Your UI
+2. 
+![CSS](https://github.com/cjesq24/RoboDark/raw/master/Screenshots/css1.png)
 
-2. HTML Theme
+![CSS](https://github.com/cjesq24/RoboDark/raw/master/Screenshots/css.png)
+
+![CSS](https://github.com/cjesq24/RoboDark/raw/master/Screenshots/css-2x.png)
+
+2. HTML 
 ![Html2](https://github.com/cjesq24/RoboDark/raw/master/Screenshots/htmlNew.png)
 
 3. React
 ![Jsx](https://github.com/cjesq24/RoboDark/raw/master/Screenshots/React2021.png)
+
 ![Jsx](https://github.com/cjesq24/RoboDark/raw/master/Screenshots/jsxReact1.png)
+
 ![Jsx](https://github.com/cjesq24/RoboDark/raw/master/Screenshots/jsxReact2.png)
+
+![CSS](https://github.com/cjesq24/RoboDark/raw/master/Screenshots/ReactTypescript.png)
 
 4. JavaScript
 ![JavaScript ](https://github.com/cjesq24/RoboDark/raw/master/Screenshots/js-RoboDark.png)
+
 ![JavaScript ](https://github.com/cjesq24/RoboDark/raw/master/Screenshots/jsSS.png)
+
 ![JavaScript ](https://github.com/cjesq24/RoboDark/raw/master/Screenshots/JavaScript1.png)
     Same code as directly above, without semantic highlighting
 ![JavaScript ](https://github.com/cjesq24/RoboDark/raw/master/Screenshots/JavaScript_Inline.png)
