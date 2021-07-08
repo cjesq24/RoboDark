@@ -31,7 +31,7 @@ Hope you enjoy!
 ## Screenshots
 
 1. CSS: Color Your Code Like You Style Your UI
-2. 
+
 ![CSS](https://github.com/cjesq24/RoboDark/raw/master/Screenshots/css1.png)
 
 ![CSS](https://github.com/cjesq24/RoboDark/raw/master/Screenshots/css.png)
@@ -48,7 +48,7 @@ Hope you enjoy!
 
 ![Jsx](https://github.com/cjesq24/RoboDark/raw/master/Screenshots/jsxReact2.png)
 
-![CSS](https://github.com/cjesq24/RoboDark/raw/master/Screenshots/ReactTypescript.png)
+![JSX](https://github.com/cjesq24/RoboDark/raw/master/Screenshots/ReactTypescript.png)
 
 4. JavaScript
 ![JavaScript ](https://github.com/cjesq24/RoboDark/raw/master/Screenshots/js-RoboDark.png)
