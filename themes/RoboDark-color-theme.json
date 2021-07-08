@@ -624,7 +624,7 @@
 			}
 		},
 		{
-			"name": "Attribute IDs HTML, JSX",
+			"name": "Attribute IDs HTML, Svelte, JS",
 			"scope": [
 				"entity.other.attribute-name.html",
 				"entity.other.attribute-name.svelte",
@@ -632,6 +632,15 @@
 			],
 			"settings": {
 				"foreground": "#3bf065"
+			}
+		},
+		{
+			"name": "Attribute JSX",
+			"scope": [
+				"entity.other.attribute-name.jsx",
+			],
+			"settings": {
+				"foreground": "#ff812d"
 			}
 		},
 		{

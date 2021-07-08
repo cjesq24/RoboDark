@@ -130,3 +130,7 @@ PUG
 6/12/21
 
 - Added GraphQL Syntax Highlighting
+
+7/8/21
+
+- JSX Attribute highlight color change
