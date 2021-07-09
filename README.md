@@ -16,7 +16,9 @@ It's not just visually appealing but practical as well. The scoped syntax makes 
 
 - Markdown
 
-- REACT + JSX + TSX
+- JSX
+
+- TSX
 
 - Pug
 
@@ -41,13 +43,13 @@ Hope you enjoy!
 2. HTML 
 ![Html2](https://github.com/cjesq24/RoboDark/raw/master/Screenshots/htmlNew.png)
 
-3. React
+3. **JSX**
 ![Jsx](https://github.com/cjesq24/RoboDark/raw/master/Screenshots/React2021.png)
 
 ![Jsx](https://github.com/cjesq24/RoboDark/raw/master/Screenshots/jsxReact1.png)
 
 ![Jsx](https://github.com/cjesq24/RoboDark/raw/master/Screenshots/jsxReact2.png)
-
+  **tsx && React + Ionic**
 ![JSX](https://github.com/cjesq24/RoboDark/raw/master/Screenshots/ReactTypescript.png)
 
 4. JavaScript
@@ -81,8 +83,9 @@ Hope you enjoy!
 
 I rescommend using  [Coenraads Bracket-Pair-Colorizer-2](https://github.com/CoenraadS/Bracket-Pair-Colorizer-2) Also available at [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2&ssr=false#review-details.). It is a great utility and has better tag colors.
 
-## Note
+![Javascript](https://github.com/cjesq24/RoboDark/raw/master/Screenshots/brackets.png)
 
-- VSCode has options which may change the theme. Semantic highlighting for example affects  RoboDark in a few instances. It complements RoboDark in many instances, so try it out! It is disabled by default. But you can override the setting if you prefer the additional highlighting.  Go to  Code>Settings type in semantic highlighting and set it to true. Restart.
-- Setting ligature to true from Code > Settings adds some cool features as well
-- _RoboDark is neither affiliated with nor endorsed by Bracket Pair, in my opinion it is great and think it make RoboDark even better_
+## Note
+- Semantic highlighting will affect RoboDark's appearance slightly. It is disabled by default. If you would like to see your code with semantic high;ighting enabled: -  Go to  Code>Settings type in semantic highlighting and set it to true. Restart.
+- Setting ligature to true: from Code > Settings adds some cool features as well
+
