@@ -86,6 +86,6 @@ I rescommend using  [Coenraads Bracket-Pair-Colorizer-2](https://github.com/Coen
 ![Javascript](https://github.com/cjesq24/RoboDark/raw/master/Screenshots/brackets.png)
 
 ## Note
-- Semantic highlighting will affect RoboDark's appearance slightly. It is disabled by default. If you would like to see your code with semantic high;ighting enabled: -  Go to  Code>Settings type in semantic highlighting and set it to true. Restart.
-- Setting ligature to true: from Code > Settings adds some cool features as well
+- Semantic highlighting will affect RoboDark's appearance slightly. It is disabled by default. If you would like to see your code with semantic highlighting enabled: -  Go to  Code>Settings type in semantic highlighting and set it to true. Restart.
+- Setting ligature to true: from Code > Settings just toggle to true. Adds some cool features as well
 
