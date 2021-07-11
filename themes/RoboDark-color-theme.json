@@ -858,11 +858,17 @@
 			"name": "Parameters",
 			"scope": [
 				"meta.function-call.arguments",
-				"variable.other.readwrite.js",
 				"meta.method-call.with-arguments.js"
 			],
 			"settings": {
 				"foreground": "#e621c8"
+			}
+		},
+		{
+			"name": "Other Variables JS",
+			"scope": ["variable.other.readwrite.js", "variable.other.readwrite.jsx"],
+			"settings": {
+				"foreground": "#ff6a0ede"
 			}
 		},
 		{
