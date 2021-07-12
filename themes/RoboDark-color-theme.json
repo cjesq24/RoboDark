@@ -1398,7 +1398,7 @@
 			"name": "TSX Component",
 			"scope": "support.class.component.tsx",
 			"settings": {
-				"foreground": "#f0ac00"
+				"foreground": "#1f66fe"
 			}
 		},
 		{
