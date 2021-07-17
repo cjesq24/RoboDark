@@ -134,3 +134,8 @@ PUG
 7/8/21
 
 - JSX Attribute highlight color change
+
+7/17/21
+
+- Added Syntax coloring for grey tsx code
+- Changed comments to a darker white
