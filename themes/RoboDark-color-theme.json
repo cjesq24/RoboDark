@@ -229,7 +229,7 @@
 				"comment.block"
 			],
 			"settings": {
-				"foreground": "#b5aca2",
+				"foreground": "#ede3e3",
 				"fontStyle": "italic"
 			}
 		},
@@ -1399,6 +1399,13 @@
 			"scope": "support.class.component.tsx",
 			"settings": {
 				"foreground": "#1f66fe"
+			}
+		},
+		{
+			"name": "TSX Variable Other",
+			"scope": "variable.other.object.tsx",
+			"settings": {
+				"foreground": "#faae0a"
 			}
 		},
 		{
