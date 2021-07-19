@@ -868,7 +868,7 @@
 			"name": "Other Variables JS",
 			"scope": ["variable.other.readwrite.js", "variable.other.readwrite.jsx"],
 			"settings": {
-				"foreground": "#ff6a0ede"
+				"foreground": "#f79414"
 			}
 		},
 		{
