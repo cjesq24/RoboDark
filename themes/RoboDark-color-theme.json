@@ -970,6 +970,13 @@
 			}
 		},
 		{
+			"name": "JS String Quoted Modules",
+			"scope": "string.quoted.module.js",
+			"settings": {
+				"foreground": "#fd4dc8"
+			}
+		},
+		{
 			"name": "This",
 			"scope": [
 				"variable.language.this.js",
@@ -1008,7 +1015,7 @@
 				"source.js"
 			],
 			"settings": {
-				"foreground": "#258b9b"
+				"foreground": "#39ffbd"
 			}
 		},
 		{
@@ -1398,7 +1405,7 @@
 			"name": "TSX Component",
 			"scope": "support.class.component.tsx",
 			"settings": {
-				"foreground": "#1f66fe"
+				"foreground": "#2bff18"
 			}
 		},
 		{
