@@ -229,7 +229,7 @@
 				"comment.block"
 			],
 			"settings": {
-				"foreground": "#ede3e3",
+				"foreground": "#ede3e3c2",
 				"fontStyle": "italic"
 			}
 		},
