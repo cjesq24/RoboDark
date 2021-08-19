@@ -1490,6 +1490,13 @@
 			}
 		},
 		{
+			"name": "TS Punctuation Decorator",
+			"scope": "punctuation.decorator.ts",
+			"settings": {
+				"foreground": "#2ffc28"
+			}
+		},
+		{
 			"name": "JS Type Instance",
 			"scope": "entity.name.type.instance.js",
 			"settings": {
