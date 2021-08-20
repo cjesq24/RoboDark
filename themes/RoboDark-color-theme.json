@@ -1409,10 +1409,17 @@
 			}
 		},
 		{
+			"name": "TS Function Pipe",
+			"scope": "entity.name.function.pipe.ng",
+			"settings": {
+				"foreground": "#cf7bff"
+			}
+		},
+		{
 			"name": "TS Variable Other Object",
 			"scope": ["variable.other.object.tsx", "variable.other.object.ts"],
 			"settings": {
-				"foreground": "#ffd000"
+				"foreground": "#ffcd2a"
 			}
 		},
 		{
