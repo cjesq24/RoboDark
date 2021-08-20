@@ -1409,10 +1409,10 @@
 			}
 		},
 		{
-			"name": "TSX Variable Other",
-			"scope": "variable.other.object.tsx",
+			"name": "TS Variable Other Object",
+			"scope": ["variable.other.object.tsx", "variable.other.object.ts"],
 			"settings": {
-				"foreground": "#faae0a"
+				"foreground": "#deff26"
 			}
 		},
 		{
