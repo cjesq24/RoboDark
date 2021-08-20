@@ -1463,9 +1463,9 @@
 		},
 		{
 			"name": "Entity Name TSX",
-			"scope": "entity.name.type.tsx",
+			"scope": ["entity.name.type.tsx", "entity.name.type.ts"],
 			"settings": {
-				"foreground": "#5883df"
+				"foreground": "#4bff54"
 			}
 		},
 		{
