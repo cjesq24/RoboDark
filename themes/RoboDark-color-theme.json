@@ -1424,7 +1424,7 @@
 		},
 		{
 			"name": "TS String Template",
-			"scope": "string.template.tsx",
+			"scope": ["string.template.tsx", "string.template.ts"],
 			"settings": {
 				"foreground": "#73ff50"
 			}
