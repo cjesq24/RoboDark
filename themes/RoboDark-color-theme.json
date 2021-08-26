@@ -1469,10 +1469,10 @@
 			}
 		},
 		{
-			"name": "Entity Name Module TSX",
-			"scope": "entity.name.type.module.tsx",
+			"name": "Entity Name Module TSX TS",
+			"scope": ["entity.name.type.module.tsx", "entity.name.type.module.ts", "entity.name.type.ts"],
 			"settings": {
-				"foreground": "#e965e9"
+				"foreground": "#b8ebff"
 			}
 		},
 		{
