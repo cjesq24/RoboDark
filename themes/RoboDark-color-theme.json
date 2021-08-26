@@ -1423,6 +1423,13 @@
 			}
 		},
 		{
+			"name": "TS Double Comment Line",
+			"scope": ["comment.line.double-slash.ts"],
+			"settings": {
+				"foreground": "#f82aff"
+			}
+		},
+		{
 			"name": "TS String Template",
 			"scope": ["string.template.tsx", "string.template.ts"],
 			"settings": {
