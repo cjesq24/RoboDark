@@ -326,7 +326,7 @@
 			"name": "JS Function Method",
 			"scope": "entity.name.function.method.js",
 			"settings": {
-				"foreground": "#9dfa24"
+				"foreground": "#56fa24"
 			}
 		},
 		{
@@ -917,7 +917,7 @@
 				"variable.graphql"
 			],
 			"settings": {
-				"foreground": "#8a5ef0"
+				"foreground": "#66ff87"
 			}
 		},
 		{
@@ -1469,10 +1469,10 @@
 			}
 		},
 		{
-			"name": "Entity Name Module TSX TS",
-			"scope": ["entity.name.type.module.tsx", "entity.name.type.module.ts", "entity.name.type.ts"],
+			"name": "Entity Name Module TSX",
+			"scope": "entity.name.type.module.tsx",
 			"settings": {
-				"foreground": "#b8ebff"
+				"foreground": "#e965e9"
 			}
 		},
 		{
