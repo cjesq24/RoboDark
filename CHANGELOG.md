@@ -139,3 +139,7 @@ PUG
 
 - Added Syntax coloring for grey tsx code
 - Changed comments to a darker white
+
+9/5/21
+
+- React (js) color changes for better consistency and improved appearance
