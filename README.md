@@ -20,6 +20,8 @@ It's not just visually appealing but practical as well. The scoped syntax makes 
 
 - TSX
 
+- React
+
 - Pug
 
 - Vue
